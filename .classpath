@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Andrei/Downloads/smack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrei/Desktop/otrcore/bouncycastle-jce-jdk13-112.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrei/Desktop/otrcore/otr4j-0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Andrei/Desktop/Gibberbot-master/libs/gp-bcc-lib.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, startApp</string>
+    <string name="app_name">SIM</string>
+    <string name="friend_list">Lista de prieteni</string>
+    <string name="username">Nume utilizator:</string>
+    <string name="password">Parolă:</string>
+    <string name="login">Autentificare</string>
+    <string name="cancel">Anulare</string>
+    <string name="messaging">Conversație</string>
+    <string name="local_service_started">App service started</string>
+    <string name="local_service_stopped">App service stopped</string>
+    <string name="local_service_connected">local_service_connected</string>
+    <string name="OK">OK</string>
+    <string name="not_connected_to_service">Nu sînteți conectat la serviciu și aceasta nu ar trebui să se întîmple,contactați administratorul la adresa  boleac.andrei@yahoo.com</string>
+    <string name="fill_both_username_and_password">Trebuie să completați ambele cîmpuri</string>
+    <string name="make_sure_username_and_password_correct">Aveți grijă ca atît parola cît și numele de utilizator introduse să fie corecte</string>
+    <string name="user_offline">Acest utilizator nu este autentificat</string>
+    <string name="sign_up">Înregistrare</string>
+    <string name="exit_application">Ieșire</string>
+    <string name="password_again">Parola(din nou):</string>
+    <string name="email">E-mail</string>
+    <string name="signup_fill_all_fields">Trebuie să completați toate cîmpurile</string>
+    <string name="signup_type_same_password_in_password_fields">Trebuie să introduceți aceeași parolă în ambele cîmpuri</string>
+    <string name="signup_failed">Înregistrare eșuată</string>
+    <string name="signup_username_crashed">Numele de utilizator a fost luat deja.Vă rugăm să vă alegeți un alt nume de utilizator</string>
+    <string name="signup_successfull">Înregistrarea a avut loc cu succes,\n puteți să vă logați acum </string>
+    <string name="username_and_password_length_short">Numele de utilizator și parola trebuie sa fie de lungime minimă 5</string>
+    <string name="add_new_friend">Adaugă un prieten nou</string>
+    <string name="no_friend">Nu aveți nici un prieten,\n Puteți adăuga unul apăsînd iconița din bara ce mai de sus de acționare</string>
+    <string name="add">Adaugă</string>
+    <string name="friend_username">Nume prieten:</string>
+    <string name="request_sent">Cererea de prietenie a fost trimisă</string>
+    <string name="type_friend_username">Introduceți vă rog numele prietenului </string>
+    <string name="new_friend_request_exist">O nouă cerere de prietenie</string>
+    <string name="approve_selected_friends">Acceptă cererile selectate și respingele pe cele neselectate</string>
+    <string name="not_connected_to_network">There is no available connected network</string>
+    <string name="message_cannot_be_sent">Nu este posibilă trimiterea mesajului</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="action_settings">Setări</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="registerControl">Creare cont</string>
+    <string name="loginLabelControl">Autentificare</string>
+    <string name="wrong_email_address">Trebuie să introduceți o adresă validă de email.Ex:bolea.andrei@yahoo.com</string>
+    <string name="aplication_server_not_responding">Serverul aplicației nu răspunde.Trimiteți un email la administrator:boleac.andrei@yahoo.com</string>
+    <string name="dialogMessage">Sînteți sigur că doriți să părăsiți aplicația?</string>
+    <string name="no">Nu</string>
+    <string name="yes">Da</string>
+    <string name="exitApp">Delogare din aplicație</string>
+    <string name="otrquery">Doriți să inițiați o conversație criptată cu :</string>
+    <string name="initConversation">Inițierea conversației criptate cu :</string>
+    <string name="send">Trimite</string>
+    <string name="conversationString">Această conversație este criptată</string>
+
+</resources>
